@@ -5,7 +5,7 @@
 94.60% Accuracy | 0.8968 AUC | 0.8675 Precision | 0.7423 Recall**
 
 Predicts which customers are likely to leave using a stacked ensemble of four classifiers.  
-Built with real telecom data, trained with stratified validation, and fully reproducible.  
+Built with **real telecom data**, trained with stratified validation, and fully reproducible.  
 This repository includes a complete pipeline: feature engineering, model stacking, and evaluation.
 
 ---
