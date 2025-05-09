@@ -8,7 +8,7 @@ Predicts which customers are likely to leave using a stacked ensemble of four cl
 Built with **real telecom data**, trained with stratified validation, and fully reproducible.  
 This repository includes a complete pipeline: feature engineering, model stacking, and evaluation.
 
-> *For context, the telecom company this was built for was previously relying on a spaCy-based model that achieved only ~40% accuracy.*
+> *For context, Charter Telecom, the company this was built for was previously relying on a spaCy-based model that achieved only ~40% accuracy.*
 ---
 
 ## What It Does
